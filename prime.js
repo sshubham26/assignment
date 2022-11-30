@@ -4,7 +4,8 @@ let prime="Yes"
     {
         if(num%i==0)
 {        prime="No"
-        break;}
+        break;
+}
     }
     
     console.log(prime)
